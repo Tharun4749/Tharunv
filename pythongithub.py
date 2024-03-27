@@ -1,2 +1,2 @@
 name=input("enter the name")
-print("the name is:,name)
+print("the name is:",name)
