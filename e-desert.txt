@@ -1,0 +1,6 @@
+user stroies for E -desert
+1.login
+2.search for desert
+3.sort the desert based on price
+4.add to cart
+5.payment
